@@ -6,8 +6,9 @@ This project consists in create webpages, wich the first one is an index page co
 Inside the recipes pages, we must present a photo of what the recipe looks like and add three main topics: Description, Ingredients(presented by an unordered list) and Steps (presente by an ordered list).
 
 By doing this project, I was able to learn about several stuff in HTML, such as:
+
     -Filling out an usual boilerplat HTML;
-    -Using tag for improve texts (h1,h2,p,etc.);
+    -Using tag for improve texts (<h1>,<h2>,<p>,etc.);
     -Images and links (using attributes of these tags) ;
     -Ordered and unordered lists (and lists inside lists).
 
