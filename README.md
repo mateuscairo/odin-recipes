@@ -1,5 +1,5 @@
 # odin-recipes
-Repo for the first project of The Odin's Project 
+<strong>Repo for the first project of The Odin's Project </strong>
 
 This project consists in create webpages, wich the first one is an index page containing a list of three food recipes of my own choice. This main page should display every recipe that has been chosen and be able to direct the user to those pages when clicking it.
 
