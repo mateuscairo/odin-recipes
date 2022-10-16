@@ -7,7 +7,7 @@ Inside the recipes pages, we must present a photo of what the recipe looks like 
 
 By doing this project, I was able to learn about several stuff in HTML, such as:
     -Filling out an usual boilerplat HTML;
-    -Using tag for improve texts (<h1>,<h2>,<p>,etc.);
+    -Using tag for improve texts (h1,h2,p,etc.);
     -Images and links (using attributes of these tags) ;
     -Ordered and unordered lists (and lists inside lists).
 
